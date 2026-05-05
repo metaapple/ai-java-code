@@ -1,7 +1,7 @@
 
 <br>
 
-# coderabbit이용해 pr시 자동 리뷰하는 기능 추가 예정
+# coderabbit이용해 pr시 자동 리뷰하는 기능 추가 예정-최종 
 
 <br>
 
